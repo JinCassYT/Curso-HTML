@@ -1,2 +1,2 @@
-# Curso HTML
- Seguindo  treinamentos de html
+# Curso HTML e css
+ Seguindo  treinamentos de html e CSS
